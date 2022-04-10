@@ -4,7 +4,7 @@
 
 # JAGROOK
 
-Purchase Smart, Save Time, Save the World 
+### Purchase Smart, Save Time, Save the World 
 
 Jagrook is a QR code scanning Web app which aims to bring transparency to consumer’s shopping cart.
 By using their smartphone to scan the QR code associated with a product in the store, this app will give you easy access to the details of the corporation that produces it, including their donations to political and charitable organisations and their UN Human Rights rating.
@@ -15,11 +15,15 @@ Our aim is to make socially conscious shopping easy and accessible.
 
 ## Tech Stack
 
-**Client:** React, React-bootstrap
+**Client:** \
+React (Frontend Framework),
+React-bootstrap (Styling Library)
 
-**Server:** Django
+**Server:** \
+Python + Django (Backend Framework)
 
-**Database:** SqLite 
+**Database:**  
+SqLite 
 
 
 ## Authors
