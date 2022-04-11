@@ -10,7 +10,8 @@ Jagrook is a QR code scanning Web app which aims to bring transparency to consum
 By using their smartphone to scan the QR code associated with a product in the store, this app will give you easy access to the details of the corporation that produces it, including their donations to political and charitable organisations and their UN Human Rights rating.
 Our aim is to make socially conscious shopping easy and accessible.
 
-
+## Screenshots 
+<img width="720" alt="Home page" src="https://user-images.githubusercontent.com/21370009/162781060-f3a7b293-8b32-490b-9d9f-e26320c600af.png">
 
 
 ## Tech Stack
