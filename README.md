@@ -11,8 +11,8 @@ By using their smartphone to scan the QR code associated with a product in the s
 Our aim is to make socially conscious shopping easy and accessible.
 
 ## Screenshots 
-![1](https://user-images.githubusercontent.com/21370009/162782837-96cee6e2-f222-4246-8575-385392831a7d.png)
-![2](https://user-images.githubusercontent.com/21370009/162783568-fca3bdde-2073-4b3c-8186-40674512f72d.png)
+<center>![1]<img src="https://user-images.githubusercontent.com/21370009/162782837-96cee6e2-f222-4246-8575-385392831a7d.png" style="width:720px"></center>
+<center>![2]<img src="https://user-images.githubusercontent.com/21370009/162783568-fca3bdde-2073-4b3c-8186-40674512f72d.png" style="wdith:720px"></center>
 
 
 
