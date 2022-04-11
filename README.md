@@ -15,7 +15,6 @@ Our aim is to make socially conscious shopping easy and accessible.
 <center><img src="https://user-images.githubusercontent.com/21370009/162783568-fca3bdde-2073-4b3c-8186-40674512f72d.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 600px"></center>
 
 
-
 ## Tech Stack
 
 **Client:** \
